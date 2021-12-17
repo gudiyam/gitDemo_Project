@@ -4,3 +4,6 @@ public void verifyLoginWithValidCredentials(){
 public void verifyLoginWithInvalidCredentials(){
 //lines of code
 }
+public void verifyLoginWithcombinationvalidCredentials(){
+//lines of code
+}
